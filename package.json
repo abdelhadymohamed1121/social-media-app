@@ -1,0 +1,17 @@
+{
+    "name": "social_app",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "serve": "node app.js",
+        "start": "nodemon app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "formidable": "^2.0.1",
+        "mysql2": "^2.3.3"
+    }
+}
